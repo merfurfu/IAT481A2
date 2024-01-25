@@ -1,6 +1,8 @@
 # IAT481A2
 Speech Emotion Recognition Dataset Analysis
-*worked on code together with Sienna Wu*
+*worked on code together with Sienna Wu*  
+
+
 *CompletedA2 and ReadMe are my submissions*
 
 Methodology 
