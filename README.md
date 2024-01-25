@@ -84,7 +84,10 @@ I learned a lot about populating arrays through functions, writing my own functi
 
 ## Citations 
 
+Livingstone SR, Russo FA (2018) The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English. PLoS ONE 13(5): e0196391. https://doi.org/10.1371/journal.pone.0196391.
+
 Sendlmeier, W et al. (2020) EmoDB dataset, 
 https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-emodb/data 
 
-Livingstone SR, Russo FA (2018) The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English. PLoS ONE 13(5): e0196391. https://doi.org/10.1371/journal.pone.0196391.
+Used code from tutorial:
+Zahoor, M (2023), Week-2_Data_Preprocessing, https://github.com/IAT-ExploringAI-2024/Week-2_Data_Preprocessing
